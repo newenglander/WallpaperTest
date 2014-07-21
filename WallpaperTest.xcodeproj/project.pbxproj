@@ -141,10 +141,10 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0510;
-				ORGANIZATIONNAME = erik;
+				ORGANIZATIONNAME = ABC;
 				TargetAttributes = {
 					433584A81946153100CA866A = {
-						DevelopmentTeam = VSYMWN6CSB;
+						DevelopmentTeam = ABC;
 					};
 				};
 			};
