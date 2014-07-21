@@ -17,7 +17,7 @@
 - (id)initWithCoder:(NSCoder *)aDecoder
 {
     // black_i
-    self = [self initWithUIImage:[UIImage imageWithContentsOfFile:@"/System/Library/WidgetResources/ibutton/white_i@2x.png"]];
+    self = [self initWithUIImage:[UIImage imageNamed:@"white_i"]];
     self.allowsEditing = YES;
     self.saveWallpaperData = YES;
 
